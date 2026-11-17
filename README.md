@@ -10,6 +10,7 @@ Full-stack developer and Computer Engineering graduate (Beykent University, 2026
 
 | Project | What it is | Built with |
 | --- | --- | --- |
+| [**canlipano**](https://github.com/suderdagi/canlipano) | Real-time task board: cards and drag-and-drop moves sync to everyone instantly, with presence and optimistic updates. | React, Socket.IO, Node.js, PostgreSQL |
 | [**randevum-api**](https://github.com/suderdagi/randevum-api) | Appointment booking API for barbers and clinics. Double bookings are impossible even under concurrent requests (PostgreSQL exclusion constraint). | Node.js, Express, PostgreSQL, JWT, Docker |
 | [**stokla**](https://github.com/suderdagi/stokla) | Inventory SaaS for small businesses: multi-tenant, full stock history, stock can never go negative. | Next.js 15, Server Actions, Prisma, PostgreSQL |
 | [**panelx-admin**](https://github.com/suderdagi/panelx-admin) · [live demo](https://suderdagi.github.io/panelx-admin/) | Admin dashboard for an online store with charts, server-side tables and role-based access. | React, TypeScript, TanStack Query, Recharts |
@@ -23,6 +24,6 @@ Every project has a README explaining the design decisions, automated tests and 
 **Languages:** TypeScript, JavaScript, SQL, Swift
 **Frontend:** React, Next.js, Tailwind CSS, TanStack Query
 **Mobile:** React Native, Expo, SwiftUI
-**Backend:** Node.js, Express, REST APIs, JWT auth
+**Backend:** Node.js, Express, REST APIs, WebSockets (Socket.IO), JWT auth
 **Data:** PostgreSQL, Prisma, Sequelize
 **Tools:** Git, GitHub Actions, Docker, Vitest, Testing Library
