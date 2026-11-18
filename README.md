@@ -3,7 +3,7 @@
 Full-stack developer and Computer Engineering graduate (Beykent University, 2026). I build web and mobile apps end to end: React and React Native on the front, Node.js and PostgreSQL behind them, with tests and CI.
 
 - 💼 Previously interned at **Vodafone Türkiye** (2025) and **RoofStacks** (2023)
-- 📍 Elazığ, Türkiye · open to remote and İstanbul roles
+- 📍 İstanbul, Türkiye · open to on-site and remote roles
 - 🔭 Looking for junior full-stack / backend positions
 
 ## Projects
